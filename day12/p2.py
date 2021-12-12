@@ -17,7 +17,7 @@ def get_paths(cave, been={}):
             else:
                 for path in get_paths(route, been=been.copy()):
                     paths.append([cave] + path)
-        elif route in been.keys():
+        elif route in been:
             if been[route] == 1 and all([been[x] < 2 for x in been.keys()]):
                 for path in get_paths(route, been=been.copy()):
                     paths.append([cave] + path)
