@@ -1,4 +1,3 @@
-#SLOW
 PATH = "day15/data.txt"
 
 def get_neighbours(x, y):
