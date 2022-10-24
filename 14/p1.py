@@ -1,4 +1,4 @@
-PATH = "day14/data.txt"
+PATH = "14/data.txt"
 
 def step(template):
     i = 1

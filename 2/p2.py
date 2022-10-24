@@ -1,4 +1,4 @@
-PATH = "day2/data.txt"
+PATH = "2/data.txt"
 input = [tuple(x.split(' ')) for x in open(PATH).readlines()]
 input = [(x[0], int(x[1][:-1])) for x in input]
 

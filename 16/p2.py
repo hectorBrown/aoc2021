@@ -1,4 +1,4 @@
-PATH = "day16/data.txt"
+PATH = "16/data.txt"
 
 class Packet:
     def __init__(self, transmission):

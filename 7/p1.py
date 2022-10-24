@@ -1,4 +1,4 @@
-PATH = "day7/data.txt"
+PATH = "7/data.txt"
 
 def cost(crabs, target):
     return sum(map(lambda x : abs(x - target), crabs))

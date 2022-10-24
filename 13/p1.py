@@ -1,4 +1,4 @@
-PATH = "day13/data.txt"
+PATH = "13/data.txt"
 
 def print_paper():
     output = ""

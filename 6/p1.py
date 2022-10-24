@@ -1,4 +1,4 @@
-PATH = "day6/data.txt"
+PATH = "6/data.txt"
 
 def propagate(state):
     new = []

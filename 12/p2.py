@@ -1,4 +1,4 @@
-PATH = "day12/data.txt"
+PATH = "12/data.txt"
 
 def is_big(cave):
     return ord(cave[0]) < 97 

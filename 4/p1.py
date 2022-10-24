@@ -1,4 +1,4 @@
-PATH = "day4/data.txt"
+PATH = "4/data.txt"
 
 def get_score(board):
     sum = 0

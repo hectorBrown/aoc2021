@@ -1,4 +1,4 @@
-PATH = "day8/data.txt"
+PATH = "8/data.txt"
 
 input = [x.split("|")[1].split(" ")[1:] for x in open(PATH).readlines()]
 for line in input:

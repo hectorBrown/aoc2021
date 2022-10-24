@@ -1,4 +1,4 @@
-PATH = "day5/data.txt"
+PATH = "5/data.txt"
 
 input = [[list(map(lambda x : int(x), y.split(","))) for y in x.split("->")] for x in open(PATH).readlines()]
 

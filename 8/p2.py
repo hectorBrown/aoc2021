@@ -1,4 +1,4 @@
-PATH = "day8/data.txt"
+PATH = "8/data.txt"
 
 def list_to_string(list):
     output = ""

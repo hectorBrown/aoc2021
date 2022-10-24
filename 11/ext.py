@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt, matplotlib.animation as anim, numpy as np, random
 
-PATH = "day11/data.txt"
+PATH = "11/data.txt"
 
 def print_map():
     output = ""

@@ -1,4 +1,4 @@
-PATH = "day7/data.txt"
+PATH = "7/data.txt"
 
 def triangle(n):
     return sum(range(n + 1))

@@ -1,4 +1,4 @@
-PATH = "day15/data.txt"
+PATH = "15/data.txt"
 
 def get_neighbours(x, y):
     neis = []

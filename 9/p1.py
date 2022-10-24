@@ -1,4 +1,4 @@
-PATH = "day9/data.txt"
+PATH = "9/data.txt"
 
 map = [[int(x) for x in line[:-1]] for line in open(PATH).readlines()]
 

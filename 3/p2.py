@@ -1,5 +1,5 @@
 import numpy as np
-PATH = "day3/data.txt"
+PATH = "3/data.txt"
 
 def to_decimal(input):
     exponent = 1

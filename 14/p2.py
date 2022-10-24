@@ -1,4 +1,4 @@
-PATH = "day14/data.txt"
+PATH = "14/data.txt"
 def step(pairs):
     new_first = ""; new_last = ""
     global first; global last;
