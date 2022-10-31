@@ -119,6 +119,7 @@ def match(sca, scb):
 def perform_merge(groups):
     #can speed up here by doing merging by scanner id so that multiple merges can be made w one scanner simultaneously
     #smaller version of this is to stop preventing multiple group merges at least
+    #can speed up by not checking scanners that are mutually exclusive
     merge_groups = []
     merge_trans = []
     for group_a in groups:
