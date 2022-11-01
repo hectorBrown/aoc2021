@@ -1,6 +1,5 @@
 import numpy as np
 import pickle
-import functools
 ex_data = "data"
 PATH = "19/" + ex_data + ".txt"
 
