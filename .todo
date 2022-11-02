@@ -3,4 +3,7 @@
     <note priority="high" time="1639601100">
         day15 p2 is slow
     </note>
+    <note priority="medium" time="1667395560">
+        speed up 19/p1, p2
+    </note>
 </todo>
