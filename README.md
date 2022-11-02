@@ -14,3 +14,5 @@ Most programs that take a while should have some sort of output to keep you ente
 I'd encourage you to do AOC yourself, not much point in running my code just to complete it, but if you want to check or are stuck this could be useful.
 
 Replace `data.txt` with your data, sometimes there might be missing newlines and stuff depending on how you copy it, but the parsing of the data is all done within the python, so it should work fine with minimal additions.
+
+Also sometimes files with no newlines at the end are required to make the code go, so you'll probably need an editor (like code) that is capable of saving files like this.
